@@ -71,7 +71,7 @@ ls -R **displays sub-directories**
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+xargs executes a command provided as an argument (echo is the default command) based on user inputs. An example is to use xargs with find to search for different files.
 
  
 
