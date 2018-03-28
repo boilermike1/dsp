@@ -44,7 +44,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+`ls`  **list files in directory**
+`ls -a`  **list files in directory including hidden**
+`ls -l`  **long listing of files in directory**
+`ls -lh`  **list long format with readable file size**
+`ls -lah`  **list long format with readable file size, including hidden**
+`ls -t`  **sort by time and date**
+`ls -Glp`  **don't list group names, long listing, append / to directories**
+
 
 ---
 
