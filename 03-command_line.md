@@ -59,7 +59,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+ls -1 **all files on separate line**
+ls -u **display files by access time**
+ls -g **display long format without owner name**
+ls -d **displays only directories**
+ls -R **displays sub-directories**
 
 ---
 
