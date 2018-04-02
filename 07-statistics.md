@@ -100,7 +100,8 @@ The resulting relative probability is 45.4545%.
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> **MM"s answer**
+Bayesian statistics include a prior probability before accounting for additional data, whereas frequentist statistics rely entirely on the data.
 
 ---
 
