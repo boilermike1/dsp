@@ -77,6 +77,9 @@ I copied the Cohen's d function on pages 27-28 of the textbook. Assigned the dat
 ### Q2. [Think Stats Chapter 3 Exercise 1](statistics/3-1-actual_biased.md) (actual vs. biased)
 This problem presents a robust example of actual vs biased data.  As a data scientist, it will be important to examine not only the data that is available, but also the data that may be missing but highly relevant.  You will see how the absence of this relevant data will bias a dataset, its distribution, and ultimately, its statistical interpretation.
 
+**MM's Answer**
+Unbiased = 1.024, Biased = 2.404
+
 ### Q3. [Think Stats Chapter 4 Exercise 2](statistics/4-2-random_dist.md) (random distribution)  
 This questions asks you to examine the function that produces random numbers.  Is it really random?  A good way to test that is to examine the pmf and cdf of the list of random numbers and visualize the distribution.  If you're not sure what pmf is, read more about it in Chapter 3.  
 
@@ -100,7 +103,7 @@ The resulting relative probability is 45.4545%.
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> **MM"s answer**
+>> **MM's answer**
 Bayesian statistics include a prior probability before accounting for additional data, whereas frequentist statistics rely entirely on the data.
 
 ---
